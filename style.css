@@ -254,7 +254,7 @@ main section.sec7 {
 }
 main section.sec7 .get-started {
   width: 100%;
-  background-image: url(/media/divbg.png);
+  background-image: url(media/divbg.png);
   background-color: #042449;
   background-position: top left;
   background-size: cover;
